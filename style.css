@@ -1,0 +1,100 @@
+img {
+    width: 450px;
+    height: 250px;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+header {
+    background-image: linear-gradient(to right, rgb(230, 230, 230), rgb(255, 255, 255));
+    height: 90px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+   
+}
+
+.click {
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    top: 0px;
+    right: -10px;
+    border-radius: 50px 0px 0px 50px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+p {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+h1 {
+    text-align: center;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.bonus1 {
+    background-color: whitesmoke;
+    height: 30px;
+    position: absolute;
+    top: 500px;
+    left: 0x;
+    right: 700px;
+    border-radius: 15px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    transition: transform 0.5s ease-in-out;
+}
+
+.bonus1:hover {
+    transform: scale(1.1);
+}
+
+.bonus2 {
+    background-color: whitesmoke;
+    height: 30px;
+    position: absolute;
+    top: 500px;
+    left: 0x;
+    right: 450px;
+    border-radius: 15px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    transition: transform 0.5s ease-in-out;
+}
+
+.bonus2:hover {
+    transform: scale(1.1);
+}
+
+.bonus3 {
+    background-color: whitesmoke;
+    height: 30px;
+    position: absolute;
+    top: 500px;
+    left: 0x;
+    right: 200px;
+    border-radius: 15px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    transition: transform 0.5s ease-in-out;
+}
+
+.bonus3:hover {
+    transform: scale(1.1);
+}
+
+body {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+
+    min-height: 100vh;
+    padding-top: 90px;
+}
