@@ -44,7 +44,7 @@ z.addEventListener("click",function(){
     if(x>=400){
         function incrementCounter() {
             x++;
-            title.innerHTML=xAdd commentMore actions
+            title.innerHTML=x
         }
         setInterval(incrementCounter, 1000)
         x-=400
