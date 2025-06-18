@@ -1,4 +1,4 @@
-let x = 0Add commentMore actions
+let x = 0
 let incom = 1
 let title = document.querySelector(".points")
 let png = document.querySelector(".button")
