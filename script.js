@@ -23,7 +23,7 @@ png.addEventListener("click",function(){
     }   
 })
 
-let y= document.querySelector(".bonus")
+let y= document.querySelector(".bonus1")
 y.addEventListener("click",function(){
 if(x>=100){
     incom+=1
@@ -31,7 +31,7 @@ if(x>=100){
     title.innerHTML=x
 }
 })
-let c= document.querySelector(".bonustwo")
+let c= document.querySelector(".bonus2")
 c.addEventListener("click",function(){
     if(x>=200){
         incom+=3
@@ -39,7 +39,7 @@ c.addEventListener("click",function(){
         title.innerHTML=x
     }
 })
-let z= document.querySelector(".bonusx")
+let z= document.querySelector(".bonus3")
 z.addEventListener("click",function(){
     if(x>=400){
         function incrementCounter() {
