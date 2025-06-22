@@ -60,7 +60,7 @@ h1 {
 
 .bonus1:hover {
     transform: scale(1.1);
-    transform: rotate(20deg);
+    transform: rotate(10deg);
 }
 
 .bonus2 {
@@ -79,7 +79,7 @@ h1 {
 .bonus2:hover {
     transform: scale(1.1);
     
-    transform: rotate(20deg);
+    transform: rotate(10deg);
 }
 
 .bonus3 {
@@ -97,7 +97,7 @@ h1 {
 .bonus3:hover {
     transform: scale(1.1);
     
-    transform: rotate(20deg);
+    transform: rotate(10deg);
 }
 
 body {
