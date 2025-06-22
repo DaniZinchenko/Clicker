@@ -1,4 +1,4 @@
-let x = 0
+let x = 450
 let incom = 1
 let title = document.querySelector(".points")
 let png = document.querySelector(".button")
