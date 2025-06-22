@@ -5,6 +5,7 @@ img {
     display: block;
     margin: 0 auto;
     transition: transform 0.5s ease-in-out
+    border: 2px solid black
 }
 
 header {
@@ -51,7 +52,7 @@ h1 {
     position: absolute;
     top: 500px;
     left: 0x;
-    right: 900px;
+    right: 890px;
     border-radius: 15px;
     font-family: Brush Script MT, Brush Script Std, cursive;
     transition: transform 0.5s ease-in-out;
